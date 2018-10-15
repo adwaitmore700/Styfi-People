@@ -1,0 +1,3 @@
+export const DATE_TIME_FORMAT = "YYYY-MM-DD";
+export const EVENT_TYPES = ["PRESENT", "LATE", "HALF-DAY", "HOLIDAY", "LEAVE"];
+export const LEAVE_STATUS = ["APPROVED", "PENDING", "REJECTED"];
